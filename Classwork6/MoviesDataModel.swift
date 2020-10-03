@@ -20,7 +20,6 @@ struct Movie{
 
 
 
-
 var MarvelMovieData = [
     Movie(movieName: "Avengers Endgame", movieReleaseDate: 2019, actors: ["Robert Downey", "Chris Evans", "Chris Hemsworth"], rating: 8.4, pgRating: "PG-13"),
     Movie(movieName: "Thor- Ragnarok", movieReleaseDate: 2017, actors: ["Chris Hemsworth", "Tom Hiddleston", "Mark Ruffalo"], rating: 7.9, pgRating: "PG-13"),
